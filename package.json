@@ -1,0 +1,20 @@
+{
+  "name": "Poetry",
+  "version": "0.0.1",
+  "description": "Jason Wright's Poetry",
+  "main": "index.js",
+  "authors": {
+    "name": "Jason",
+    "email": "jason@silvermast.io"
+  },
+  "repository": "git@github.com:chordstricken/poetry.git",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
