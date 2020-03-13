@@ -1,13 +1,4 @@
-# Jason Wright&#39;s Poetry
+# Poetry by Jason Wright
 
-> Jason Wright&#39;s Poetry
-
-## Development
-
-```bash
-yarn dev
-yarn build
-```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
+## [https://jasonwright.ink](https://jasonwright.ink/).
 

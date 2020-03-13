@@ -4,5 +4,34 @@
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
 
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text&display=swap');
+
+.content-wrapper
+  padding-top: 100px
+
+.header-wrapper .header-right-wrap .nav .nav-item a,
+.header-wrapper .title a
+  font-family: $fontFamily
+
+h1
+  font-family: $fontFamily
+  margin-top: -6rem
+
+*
+  font-family: $fontFamily
+
 .home .hero img
   max-width 450px!important
+
+.content__default :not(h1)
+  white-space: pre
+
+div[class*="language-"]
+  background: inherit
+  color: black
+  code
+    color: black!important
+    background: inherit
+    font-family: $fontFamily
+    font-size: 1.2rem
+    text-shadow: 2px 2px 4px rgba(100, 100, 0, 0.1)!important
