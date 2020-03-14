@@ -7,6 +7,7 @@ tag:
 ---
 
 # Love Not Always Spoken
+
 ```
 My days and nights may not always contain you
 Filled with grandeurs seeking truth and self
