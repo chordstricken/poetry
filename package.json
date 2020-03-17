@@ -10,7 +10,8 @@
   "repository": "git@github.com:chordstricken/poetry.git",
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "build": "vuepress build blog",
+    "deploy": "vuepress build blog && aws s3 sync --exclude=node_modules --delete ./ s3://jasonwright-poetry/"
   },
   "license": "MIT",
   "devDependencies": {
