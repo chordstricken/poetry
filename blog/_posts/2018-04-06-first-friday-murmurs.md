@@ -2,7 +2,7 @@
 date: 2018-04-06
 title: First Friday Murmurs
 tag:
-    - April 2018
+    - April 2018 Collection
     - haiku
     - downtown phoenix
 ---

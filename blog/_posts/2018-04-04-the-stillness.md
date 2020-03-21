@@ -2,7 +2,7 @@
 date: 2018-04-04
 title: The Stillness
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
     - downtown phoenix
 ---

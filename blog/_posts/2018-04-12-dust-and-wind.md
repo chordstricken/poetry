@@ -2,7 +2,7 @@
 date: 2018-04-12
 title: Dust and Wind
 tag:
-    - April 2018
+    - April 2018 Collection
     - desert
 ---
 

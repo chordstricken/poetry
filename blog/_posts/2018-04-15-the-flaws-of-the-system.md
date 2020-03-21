@@ -2,7 +2,7 @@
 date: 2018-04-15
 title: The Flaws of the System
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
 ---
 

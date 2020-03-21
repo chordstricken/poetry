@@ -2,7 +2,7 @@
 date: 2018-04-05
 title: Rules for What's Good
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
 ---
 # Rules for What's Good

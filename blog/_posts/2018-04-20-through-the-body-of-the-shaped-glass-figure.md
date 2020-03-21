@@ -2,7 +2,7 @@
 date: 2018-04-20
 title: Through the Body of the Shaped Glass Figure
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
 ---
 

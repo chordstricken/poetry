@@ -2,7 +2,7 @@
 date: 2018-04-27
 title: Incomplete Thoughts
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
 ---
 

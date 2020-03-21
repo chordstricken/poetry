@@ -2,7 +2,7 @@
 date: 2018-04-13
 title: A Man I've Met
 tag:
-    - April 2018
+    - April 2018 Collection
     - free form
 ---
 

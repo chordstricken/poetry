@@ -3,7 +3,7 @@ date: 2018-04-30
 title: Love Not Always Spoken
 tag: 
     - sonnet
-    - April 2018
+    - April 2018 Collection
 ---
 
 # Love Not Always Spoken
