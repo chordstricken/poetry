@@ -2,6 +2,9 @@ module.exports = {
   title: 'Jason Wright\'s Poetry',
   description: 'Poems by Jason Wright',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  plugins: [
+    [ '@vuepress/google-analytics', { 'ga': 'UA-87610356-2' } ]
+  ],
   themeConfig: {
     summary: false,
     canonical_base:'https://jasonwright.ink',
