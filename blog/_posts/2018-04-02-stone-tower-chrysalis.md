@@ -1,5 +1,5 @@
 ---
-date: 2018-04-02
+date: 2018-04-02 00:00:00 UTC-700
 title: Stone Tower Chrysalis
 tag:
     - April 2018 Collection

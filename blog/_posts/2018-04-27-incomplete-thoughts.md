@@ -1,5 +1,5 @@
 ---
-date: 2018-04-27
+date: 2018-04-27 00:00:00 UTC-700
 title: Incomplete Thoughts
 tag:
     - April 2018 Collection

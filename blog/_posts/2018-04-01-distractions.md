@@ -1,5 +1,5 @@
 ---
-date: 2018-04-01
+date: 2018-04-01 00:00:00 UTC-700
 title: Distractions
 tag:
     - April 2018 Collection

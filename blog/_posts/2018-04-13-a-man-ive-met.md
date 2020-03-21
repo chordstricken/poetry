@@ -1,5 +1,5 @@
 ---
-date: 2018-04-13
+date: 2018-04-13 00:00:00 UTC-700
 title: A Man I've Met
 tag:
     - April 2018 Collection

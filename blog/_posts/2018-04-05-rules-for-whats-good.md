@@ -1,5 +1,5 @@
 ---
-date: 2018-04-05
+date: 2018-04-05 00:00:00 UTC-700
 title: Rules for What's Good
 tag:
     - April 2018 Collection

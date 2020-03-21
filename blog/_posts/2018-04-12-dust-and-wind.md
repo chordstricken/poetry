@@ -1,5 +1,5 @@
 ---
-date: 2018-04-12
+date: 2018-04-12 00:00:00 UTC-700
 title: Dust and Wind
 tag:
     - April 2018 Collection

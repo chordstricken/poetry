@@ -1,5 +1,5 @@
 ---
-date: 2018-04-09
+date: 2018-04-09 00:00:00 UTC-700
 title: Davisson and Germer
 tag:
     - April 2018 Collection

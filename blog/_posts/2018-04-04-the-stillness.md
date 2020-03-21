@@ -1,5 +1,5 @@
 ---
-date: 2018-04-04
+date: 2018-04-04 00:00:00 UTC-700
 title: The Stillness
 tag:
     - April 2018 Collection

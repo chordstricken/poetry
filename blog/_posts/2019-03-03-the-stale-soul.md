@@ -1,5 +1,5 @@
 ---
-date: 2019-03-03
+date: 2019-03-03 00:00:00 UTC-700
 title: The Stale Soul
 tags:
     - nature

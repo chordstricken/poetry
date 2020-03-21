@@ -1,5 +1,5 @@
 ---
-date: 2018-04-19
+date: 2018-04-19 00:00:00 UTC-700
 title: Drunk Face
 tag:
     - April 2018 Collection

@@ -1,5 +1,5 @@
 ---
-date: 2018-04-21
+date: 2018-04-21 00:00:00 UTC-700
 title: Desert Wedding
 tag:
     - April 2018 Collection

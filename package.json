@@ -10,10 +10,13 @@
   "repository": "git@github.com:chordstricken/poetry.git",
   "scripts": {
     "dev": "vuepress dev blog",
+    "serve": "yarn dev",
+    "watch": "yarn dev",
     "build": "vuepress build blog",
     "upload": "aws s3 sync --delete ./blog/.vuepress/dist/ s3://jasonwright-poetry/",
-    "flush-cloudfront": "aws cloudfront create-invalidation --distribution-id=E2NOWJW01ZUL9H",
-    "deploy": "yarn build && yarn upload && yarn flush-cloudfront"
+    "flush-cloudfront": "aws cloudfront create-invalidation --distribution-id=E2NOWJW01ZUL9H --paths /",
+    "publish": "yarn build && yarn upload && yarn flush-cloudfront",
+    "deploy": "yarn publish"
   },
   "license": "MIT",
   "devDependencies": {

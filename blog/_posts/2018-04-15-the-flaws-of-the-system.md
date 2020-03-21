@@ -1,5 +1,5 @@
 ---
-date: 2018-04-15
+date: 2018-04-15 00:00:00 UTC-700
 title: The Flaws of the System
 tag:
     - April 2018 Collection

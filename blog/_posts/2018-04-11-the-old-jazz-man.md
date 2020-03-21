@@ -1,5 +1,5 @@
 ---
-date: 2018-04-11
+date: 2018-04-11 00:00:00 UTC-700
 title: The Old Jazz Man
 tag:
     - April 2018 Collection

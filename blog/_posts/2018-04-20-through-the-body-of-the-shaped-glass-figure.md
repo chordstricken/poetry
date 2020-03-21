@@ -1,5 +1,5 @@
 ---
-date: 2018-04-20
+date: 2018-04-20 00:00:00 UTC-700
 title: Through the Body of the Shaped Glass Figure
 tag:
     - April 2018 Collection

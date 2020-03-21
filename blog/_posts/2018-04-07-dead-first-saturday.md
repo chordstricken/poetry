@@ -1,5 +1,5 @@
 ---
-date: 2018-04-07
+date: 2018-04-07 00:00:00 UTC-700
 title: Dead First Saturday
 tag:
     - April 2018 Collection

@@ -1,5 +1,5 @@
 ---
-date: 2018-04-28
+date: 2018-04-28 00:00:00 UTC-700
 title: Shouting Truths
 tag:
     - April 2018 Collection
