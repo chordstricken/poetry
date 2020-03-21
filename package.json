@@ -11,7 +11,9 @@
   "scripts": {
     "dev": "vuepress dev blog",
     "build": "vuepress build blog",
-    "deploy": "vuepress build blog && aws s3 sync --delete ./blog/.vuepress/dist/ s3://jasonwright-poetry/"
+    "upload": "aws s3 sync --delete ./blog/.vuepress/dist/ s3://jasonwright-poetry/",
+    "flush-cloudfront": "aws cloudfront create-invalidation --distribution-id=E2NOWJW01ZUL9H",
+    "deploy": "yarn build && yarn upload && yarn flush-cloudfront"
   },
   "license": "MIT",
   "devDependencies": {
