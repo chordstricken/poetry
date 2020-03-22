@@ -1,6 +1,6 @@
 {
   "name": "Poetry",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Jason Wright's Poetry",
   "main": "index.js",
   "authors": {
@@ -15,8 +15,7 @@
     "build": "vuepress build blog",
     "upload": "aws s3 sync --delete ./blog/.vuepress/dist/ s3://jasonwright-poetry/",
     "flush-cloudfront": "aws cloudfront create-invalidation --distribution-id=E2NOWJW01ZUL9H --paths /",
-    "publish": "yarn build && yarn upload && yarn flush-cloudfront",
-    "deploy": "yarn publish"
+    "deploy": "yarn build && yarn upload && yarn flush-cloudfront"
   },
   "license": "MIT",
   "devDependencies": {
