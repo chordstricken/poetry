@@ -8,10 +8,17 @@ tags:
 # The Statue
 
 ```
-A lone statue sits deep in the garden, alone.
-Lotus pose, eyes closed.
+A lone statue 
+            sits deep in the garden, 
+alone.
+
+Lotus pose, 
+            eyes closed.
 Not waiting.
-The garden takes deep, active breaths.
+
+The garden 
+            takes deep, 
+                        active breaths.
 
 Sighs, heavily.
 
