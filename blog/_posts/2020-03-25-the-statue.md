@@ -3,6 +3,7 @@ date: 2020-03-25 22:15:00 UTC-700
 title: The Statue
 tags:
     - April 2019 Collection
+    - meditation
 ---
 
 # The Statue
