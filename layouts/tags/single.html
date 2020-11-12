@@ -1,0 +1,21 @@
+{{ partial "top.html" . }}
+
+  <article class="post">
+    <header class="post-header">
+      <time class="post-date" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "02 Jan 2006" }}</time>
+      {{ with .Params.tags }}
+      <div class="text-right">
+        <ul class="tags-inline">
+          {{ range . }}
+            <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </header>
+
+    {{ .Content }}
+
+  </article>
+
+{{ partial "bottom.html" . }}

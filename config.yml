@@ -1,0 +1,14 @@
+baseURL: https://jasonwright.ink
+languageCode: en-us
+title: Some Poems
+theme: hugo-journal
+
+params:
+  AuthorName: Jason Dee Wright
+  GithubUsername: chordstricken
+  Tagline: Some Poems by Jason Dee Wright
+  mainSections: 
+    - post
+
+permalinks:
+  post: /poems/:title/
