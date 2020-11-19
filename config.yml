@@ -11,4 +11,4 @@ params:
     - post
 
 permalinks:
-  post: /poems/:title/
+  poems: /poems/:title/
